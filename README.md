@@ -10,3 +10,7 @@ La app permite:
 - Construir un gráfico de dispersión para analizar la relación entre `odometer` y `price`.
 
 El objetivo del proyecto es practicar el uso de Python, pandas, Plotly y Streamlit para crear visualizaciones interactivas de datos.
+
+Link Render:
+
+https://project7-2zkk.onrender.com
